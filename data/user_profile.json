@@ -1,0 +1,14 @@
+{
+  "name": "Split Catalog User",
+  "age": 24,
+  "gender": "Female",
+  "body_type": "Slim",
+  "skin_tone": "Fair",
+  "size": "M",
+  "budget_min": 500,
+  "budget_max": 5000,
+  "interests": [
+    "Festive",
+    "Casual"
+  ]
+}
